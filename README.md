@@ -1,7 +1,7 @@
 # ALG_Allum1
 Create a CLI game
 
-How to clone : 
+# How to clone : 
 
 git clone https://github.com/Moonyin77/ALG_Allum1.git
 
